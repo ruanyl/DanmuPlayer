@@ -155,13 +155,13 @@ $("#danmup .danmu-div").danmu("addDanmu",[
 
 ---
 
-**8**.注意：一个页面中可以防止多个DanmuPlayer,但是由于所有的danmuPlayer绑定有相同的键盘快捷键，可能会导致键盘事件的失灵。
+**8**.注意：一个页面中可以放置多个DanmuPlayer,但是由于所有的danmuPlayer绑定有相同的键盘快捷键，可能会导致键盘事件的失灵。
 
 ---
 
 
 **9**.如果你只需把弹幕应用视频除外的网页的其他位置，请看DanmuPlayer的姊妹项目jQuery.Danmu.js,它是一个独立于视频的弹幕插件。
-项目地址： http://www/liyawei.cn/danmu/
+项目地址： http://www.liyawei.cn/danmu/
 ### 许可
 你可以随意使用本项目，只需要在您的项目中添加这么一行注释：
 ```html
